@@ -1,0 +1,5 @@
+title: RUN BLOG
+description: Neon Dark Tech Blog
+theme: null
+markdown: kramdown
+permalink: /:categories/:title/
