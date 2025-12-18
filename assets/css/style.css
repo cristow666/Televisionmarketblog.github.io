@@ -1,0 +1,37 @@
+body {
+  background: #0b0b0b;
+  color: #e0e0e0;
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  padding: 15px;
+}
+
+nav a {
+  color: #00ffcc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.neon {
+  color: #00ffcc;
+  text-shadow: 0 0 10px #00ffcc;
+}
+
+.post-card {
+  background: #111;
+  padding: 20px;
+  margin: 20px 0;
+  border-left: 4px solid #00ffcc;
+}
+
+.meta {
+  color: #888;
+  font-size: 14px;
+}
+
+img {
+  max-width: 100%;
+  border: 2px solid #00ffcc;
+}
